@@ -1,5 +1,9 @@
 django-pushy
 ============
+
+.. image:: https://badges.gitter.im/rakanalh/django-pushy.svg
+   :alt: Join the chat at https://gitter.im/rakanalh/django-pushy
+   :target: https://gitter.im/rakanalh/django-pushy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 Your push notifications handled at scale.
 
 .. image:: https://travis-ci.org/rakanalh/django-pushy.svg?branch=master
